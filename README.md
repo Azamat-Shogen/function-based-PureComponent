@@ -1,2 +1,2 @@
-# function-based-PureComponent
+# class-based-pureComponent-demo
 Created with CodeSandbox
